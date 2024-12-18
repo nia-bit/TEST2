@@ -1,0 +1,22 @@
+{
+  "name": "Pod",
+  "version": "0.1.0",
+  "summary": "A short description of Pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangyawei/Pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyawei": "wangyawei@wondersgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/wangyawei/Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Pod/Classes/**/*"
+}
