@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wangyawei' => 'wangyawei@wondersgroup.com' }
-  s.source           = { :git => 'https://github.com/wangyawei/Pod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nia-bit/test.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
